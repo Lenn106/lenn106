@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **i-Ready, JS, HTMl**
+- 💬 Ask me about **i-Ready, JS, HTML**
 
 - 📫 Contact **admin@lenn106.com**
 
