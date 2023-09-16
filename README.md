@@ -1,7 +1,6 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lenn106&label=Profile%20views&color=0e75b6&style=flat" alt="lenn106" /> </p>
 <h1 align="center">I'm Lenn106</h1>
 <h3 align="center">A fairly new developer, still learning the ropes... Strong Suites: JS and HTML, Weakness: C++</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lenn106&label=Profile%20views&color=0e75b6&style=flat" alt="lenn106" /> </p>
 
 - 🔭 I'm currently working on [DevHaxx](https://github.com/DevTech-Services/DevHaxx)
 
