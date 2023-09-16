@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lenn106&" alt="lenn106" /></p>
 
-<p><img align="center" src="https://komarev.com/ghpvc/?username=lenn106&label=Profile%20views&color=0e75b6&style=flat" alt="lenn106" /> </p>
+<p><img align="center" src="https://komarev.com/ghpvc/?username=lenn106&color=blue" alt="lenn106" /> </p>
