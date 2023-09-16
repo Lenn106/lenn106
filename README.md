@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lenn106&label=Profile%20views&color=0e75b6&style=flat" alt="lenn106" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lenn106" alt="lenn106" /></a> </p>
-
 - 🔭 I'm currently working on [DevHaxx](https://github.com/DevTech-Services/DevHaxx)
 
 - 🌱 I’m currently learning **Angular**
@@ -16,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lenn106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lenn106" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lenn106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lenn106" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@lenn106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lenn106" height="30" width="40" /></a>
 <a href="https://discord.gg/RrtwRWmKUc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RrtwRWmKUc" height="30" width="40" /></a>
 </p>
 
